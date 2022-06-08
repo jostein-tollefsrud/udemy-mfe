@@ -23,5 +23,3 @@ const devConfig = {
 };
 
 module.exports = merge(commonConfig, devConfig);
-
-// delete after testing pipeline
