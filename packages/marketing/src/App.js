@@ -3,7 +3,6 @@ import { Switch, Route, BrowserRouter } from 'react-router-dom';
 import {
   StylesProvider,
   createGenerateClassName,
-  createGenerateClassName,
 } from '@material-ui/core/styles';
 
 import Landing from './components/Landing';

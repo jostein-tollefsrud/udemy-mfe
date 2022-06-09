@@ -5,7 +5,6 @@ import MarketingApp from './components/MarketingApp';
 import {
   StylesProvider,
   createGenerateClassName,
-  createGenerateClassName,
 } from '@material-ui/core/styles';
 
 const generateClassName = createGenerateClassName({
